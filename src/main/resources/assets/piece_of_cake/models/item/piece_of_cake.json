@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "piece_of_cake:item/piece_of_cake"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cake"
+    }
+  ],
+  "result": {
+    "item": "piece_of_cake:piece_of_cake",
+    "count": 7
+  },
+  "group": "piece_of_cake"
+}
